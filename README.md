@@ -22,7 +22,7 @@ Tasks
                               Right click Hard Drive icon on Desktop, click 'Get Info' and check capacity
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/2%20increaseTo1GofData.png)
       - Select the Ubuntu Server Image from your downloads folder
-      - Accept _MOST_Defaults for VirtualBox
+      - Accept _MOST_ Defaults for VirtualBox
             - Not all defaults are correct for the machine we are setting up
               For a few of the sections in the !! Partition Disk section, we need to change the default
               The first instance should be changed to <Yes> when asking about writing changes to disks and configuring LVM
