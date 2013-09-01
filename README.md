@@ -3,8 +3,9 @@ homework-01
 
 Due September 03, 2013
 
-Laura Cunningham
+Here are the next steps for the homework assignment that you should complete by Tuesday's class so that everyone is on the same page with virtualbox and Ubuntu Server installed.
 
+Much thanks to Laura Cunningham who helped me create this assignment today.
 
 Tasks
 -----
