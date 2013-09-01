@@ -25,3 +25,6 @@ Tasks
       - Accept Defaults for VirtualBox
       - ** Note:  Left ⌘ (Command Key, http://en.wikipedia.org/wiki/Command_key) directly refers to the key ⌘ceft of your space bar on the keyboard. **
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/3%20importantToLKnowAbout.virtualBoxAutoCaptureFeature%20hitLeftCommandToReleaseMouseAndKeyBoard.png)
+            - Becareful for accepting all defaults for setting up the virtual machine.  There are two instances you should make sure you are changes during this process
+                  ![first unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/4%20doNotAcceptDefault.time1.png)
+                  ![second unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/5%20changeDefault,%20time2.png)
