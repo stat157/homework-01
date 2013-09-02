@@ -13,6 +13,7 @@ Tasks
 - [ ] Download VirtualBox https://www.virtualbox.org/wiki/Downloads
 - [ ] Install VirtualBox
 - [ ] Download `.iso` for Ubuntu Server 13.04 (Raring Ringtail) http://releases.ubuntu.com/raring/
+      **NOTE: Even though you may be on a Mac, you should download the 64-bit PC (AMD64) version for running inside VirtualBox.**
       - Choose the download option under Server Install Image: [64-bit PC (AMD64) server install image](http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso)
       - A **faster** way to download the `.iso` is to use [64-bit PC (AMD64) server install image TORRENT](http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso.torrent)
 - [ ] Create a new virtual machine for Ubuntu Server 13.04 in Virtual Box
