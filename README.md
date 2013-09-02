@@ -31,3 +31,18 @@ Tasks
             - Becareful for accepting all defaults for setting up the virtual machine.  There are two instances you should make sure you are changes during this process
                   ![first unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/4%20doNotAcceptDefault.time1.png)
                   ![second unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/5%20changeDefault,%20time2.png)
+
+- [ ] Ensure hardware-level Virtualization support is enabled in your
+  BIOS. If you receive a warning from VirtualBox that "VT-x/AMD-V
+  hardware acceleration has been enabled, but is not
+  operation....Please ensure that you have enabled VT-x/AMD-V properly
+  in the BIOS of your host computer." Then you will need to reboot
+  your computer to enter the BIOS settings screen, for example here is
+  what was required for an [HP
+  Pavilion](http://h30434.www3.hp.com/t5/Other-Notebook-PC-Questions/HP-Pavilion-dv6-enabling-VT-x-in-BIOS/td-p/656627)
+  computer. Instructions for your make/model will be similar, but may
+  not be exactly what's available here. Most computers within the last
+  couple of years support hardware virtualization, but even some as
+  recent as 2011 do not have it, so if you are not able to find the
+  option to enable, then please contact your instructors to explore
+  other available options.
