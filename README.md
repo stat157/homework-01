@@ -36,7 +36,7 @@ Tasks
   virtualization](http://en.wikipedia.org/wiki/X86_virtualization)
   support is enabled in your BIOS. If you receive a warning from
   VirtualBox that "VT-x/AMD-V hardware acceleration has been enabled,
-  but is not operation....Please ensure that you have enabled
+  but is not operational. Please ensure that you have enabled
   VT-x/AMD-V properly in the BIOS of your host computer." Then you
   will need to reboot your computer to enter the BIOS settings screen,
   for example here is what was required for an [HP
