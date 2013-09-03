@@ -1,4 +1,5 @@
 homework-01
+By Sam Kirschner
 ===========
 
 Due September 03, 2013
