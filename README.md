@@ -31,7 +31,7 @@ Tasks
             - Becareful for accepting all defaults for setting up the virtual machine.  There are two instances you should make sure you are changes during this process
                   ![first unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/4%20doNotAcceptDefault.time1.png)
                   ![second unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/5%20changeDefault,%20time2.png)
-
+-DO NOT OPEN THE .iso FILE, You will need it later!
 - [ ] Ensure [hardware-level
   virtualization](http://en.wikipedia.org/wiki/X86_virtualization)
   support is enabled in your BIOS. If you receive a warning from
