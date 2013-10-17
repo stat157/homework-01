@@ -47,3 +47,10 @@ Tasks
   recent as 2011 do not have it, so if you are not able to find the
   option to enable, then please contact your instructors to explore
   other available options.
+
+Troubleshooting
+---------------
+Here are some troubleshooting tips if you run into a problem like [Problems connecting to ipython running in Virtual Machine from the browser on laptop](https://github.com/stat157/homework-01/issues/22).
+
+
+
