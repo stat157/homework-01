@@ -52,5 +52,7 @@ Troubleshooting
 ---------------
 Here are some troubleshooting tips if you run into a problem like [Problems connecting to ipython running in Virtual Machine from the browser on laptop](https://github.com/stat157/homework-01/issues/22).
 
-
+Step 1
+Here's the screenshot for step 1
+![step 1](https://raw.github.com/raymondma1/homework-01/master/images/troubleshooting/Screen%20Shot%202013-10-17%20at%208.37.17%20AM.png)
 
