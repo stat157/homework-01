@@ -71,7 +71,7 @@ Tasks
       - Select the Ubuntu Server Image from your downloads folder
       - Accept _MOST_ Defaults for VirtualBox
         - _Not All Defaults are Correct for the Machine we are Setting Up_
-          - For a few of the sections in the **!! Partition Disk Section**, we need to change the default
+          - For a few of the sections in the **[!!] Partition Disks** Section, we need to change the default
             - The first instance should be changed to <Yes> when asking about writing changes to disks and configuring LVM
 ![first unaccepted default](https://raw.github.com/lauraccunningham/course-set-up/master/images/4%20doNotAcceptDefault.time1.png)
             - The second should also be changed to <Yes> regarding writing changes to disks
