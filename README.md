@@ -1,5 +1,6 @@
 homework-01
 ===========
+By Sam Kirschner
 
 Due September 03, 2013
 
@@ -19,12 +20,14 @@ Tasks
 - [ ] Create a new virtual machine for Ubuntu Server 13.04 in Virtual Box
       - Name 'Stat157' and select Linux, Ubuntu 64-bit from drop down menus
       ![selecting names and drop down menu items](https://raw.github.com/lauraccunningham/homework-01/master/images/1%20creatingComputerInVirtualBox.stat157.png)
-      - Make sure to be aware of your individual machine's hard drive space
+      - Make sure to be aware of your individual machine's virtual memory and hard drive space
             - For Mac Users:  Finder > Preferences
                               Check your Hard Disk box is checked
                               Right click Hard Drive icon on Desktop, click 'Get Info' and check capacity
+      -512mb is the recommended virtual memory to allot for your virtual machine, although you can do more if you have a lot of virtual memory on your computer
+      -You should also allot the 8gb of hard drive space, with all the default settings
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/2%20increaseTo1GofData.png)
-      - Select the Ubuntu Server Image from your downloads folder
+      - Once you've made the virtual machine, start it up and when you choose a disc image file, select the Ubuntu Server Image from your downloads folder
       - Accept Defaults for VirtualBox
       - ** Note:  Left ⌘ (Command Key, http://en.wikipedia.org/wiki/Command_key) directly refers to the ⌘ key left of your space bar on the keyboard. **
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/3%20importantToLKnowAbout.virtualBoxAutoCaptureFeature%20hitLeftCommandToReleaseMouseAndKeyBoard.png)
